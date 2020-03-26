@@ -1,0 +1,7 @@
+lion
+tiger
+cow
+dog
+pig
+bull
+wolf

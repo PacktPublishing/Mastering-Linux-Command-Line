@@ -1,0 +1,7 @@
+Mary,ID7826,M.S,Computer Science,New York
+John,ID8934,B.S,Biology,Dallas
+Kelly,ID3478,B.S,Maths,Boston
+Dany ID3568 B.S Maths Denver
+Kumar,ID1289,M.S,Cyber Security,Houston
+David,ID8978,M.S,Information Management Systems,San Jose
+Tony,ID7823,B.S,Biology,Austin

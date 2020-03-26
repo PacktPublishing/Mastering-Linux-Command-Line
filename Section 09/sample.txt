@@ -1,0 +1,8 @@
+This is my first line!
+I am learning linux!
+Many companies have beeing using linux os for many years.
+
+
+
+This is after few blank lines.
+This  line  has double spaces.

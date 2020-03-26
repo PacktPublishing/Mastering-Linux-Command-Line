@@ -1,0 +1,4 @@
+This is a sample file.
+I am learning to process text using the cut command.
+cut command is cool!
+It comes real handy when dealing with delimited files.
